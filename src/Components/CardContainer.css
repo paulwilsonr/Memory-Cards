@@ -1,0 +1,7 @@
+#cardContainer {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    width: 1300px;
+    margin: 25px auto;
+}
